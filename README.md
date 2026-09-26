@@ -40,7 +40,8 @@ I also build desktop utilities, Discord tools, and self-hosted services. More of
 
 **Systems & infrastructure**
 
-![Go](https://img.shields.io/badge/Go-007D9C?style=flat-square&logo=go&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-007D9C?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-5C3A2E?style=flat-square&logo=rust&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-176EA6?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
